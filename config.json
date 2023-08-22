@@ -1,0 +1,8 @@
+{
+  "numer_wniosku": "TWOJNUMERWNIOSKU",
+  "adres_email_nadawcy": "TWOJADRES@outlook.com",
+  "haslo_nadawcy": "TWOJEHASLO",
+  "adres_email_odbiorcy": "TWOJADRES@gmail.com",
+  "smtp_adres": "smtp-mail.outlook.com",
+  "port_smtp": 587
+}
